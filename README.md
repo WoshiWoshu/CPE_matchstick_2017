@@ -29,3 +29,4 @@ NOTE :
 
         - If the AI wins, the program return 2.
 
+![Image description](cover.png)
