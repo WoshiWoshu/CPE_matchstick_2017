@@ -21,11 +21,11 @@ NOTE :
 
         - The matchsticks are removed right to left.
 
-        - The first parameter must be a number of size : 1 < n < 100., the program return 1.
+        - The first parameter must be a number of size : 1 < n < 100.
 
         - The Player always start first against the AI.
 
-        - If the user wins
+        - If the user wins, the program return 1.
 
         - If the AI wins, the program return 2.
 
